@@ -1,1 +1,1 @@
-# Git3 Seminar3
+# Git3 Seminar
